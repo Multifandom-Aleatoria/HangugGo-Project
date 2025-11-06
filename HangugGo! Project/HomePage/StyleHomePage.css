@@ -1,0 +1,34 @@
+.TitleClass{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: black;
+    stroke: azure;
+    stroke-width: 20px;
+}
+
+/* body{
+  /  align-items: baseline;
+} */
+
+.Language{
+text-align: center;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 40px;
+transition-duration: 1s;
+}
+
+.Language:hover{
+    transition-duration: 1s;
+    font-size: 50px;
+}
+
+img{
+   opacity: 0%; 
+   transition-duration: 10s;
+}
+
+img:hover{
+opacity: 100%;
+transition-duration: 60s;
+}
