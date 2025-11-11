@@ -1,9 +1,13 @@
 #Main{
-background-color: rgb(192, 64, 77);
+background-image: linear-gradient(rgb(119, 33, 33), rgb(36, 22, 139));
 margin-top: auto;
 align-items: center;
 color: white;
 border: 100px;
+}
+
+html{
+    background-image: linear-gradient(white, aliceblue, white);
 }
 
 h1{

@@ -1,0 +1,15 @@
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(29, 17, 43);
+    font-size: 40px;
+    transition-duration: 10s;
+}
+
+p:hover{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(10, 37, 60);
+    font-size: 45px;
+    transition-duration: 10s;
+}
